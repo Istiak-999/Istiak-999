@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Istiak Ahmed
 #### I am android developer
-![I am android developer](https://ubiqum.com/assets/uploads/2019/07/code-coder-coding-270348.jpg)
+![I am android developer]
 
 pending...
 
