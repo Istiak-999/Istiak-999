@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Istiak Ahmed
 #### I am android developer
-![I am android developer]
+
 
 pending...
 
