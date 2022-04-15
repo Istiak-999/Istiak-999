@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Istiak Ahmed
-#### I am android developer
+#### I am an android developer
 
 
-pending...
+When I was a teenager I got mobile phone on my hand for the first time. All the amazing features of android phone attracted me soo much. Specially I liked different types of apps and their features. Then one thinking was growing up in my head that how an app works. From that intension today I'm working on app development. I'm watching, knowing, learning everyday.  I am fascinated as much as I know
 
 Skills: C / Java
 
